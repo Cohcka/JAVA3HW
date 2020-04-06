@@ -1,3 +1,5 @@
+package home_work_1;
+
 public abstract class Fruit {
     float weight;
     String name;

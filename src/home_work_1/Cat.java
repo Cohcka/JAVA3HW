@@ -1,3 +1,5 @@
+package home_work_1;
+
 public class Cat {
     String name;
     String color;

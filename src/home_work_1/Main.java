@@ -1,3 +1,5 @@
+package home_work_1;
+
 import java.util.ArrayList;
 
 public class Main {
@@ -20,35 +22,35 @@ public class Main {
         //Task_3_a,b,c,g
         Apple a = new Apple();
         Orange o = new Orange();
-        Box box1 = new Box("Box 1");
+        Box box1 = new Box("home_work_1.Box 1");
         for (int i = 0; i < 3; i++) {
             box1.addFruit(o);
         }
         box1.addFruit(a);
-        System.out.println("\nBox 1 weight: " + box1.getWeight());
+        System.out.println("\nhome_work_1.Box 1 weight: " + box1.getWeight());
 
-        Box box2 = new Box("Box 2");
+        Box box2 = new Box("home_work_1.Box 2");
         for (int i = 0; i < 5; i++) {
             box2.addFruit(a);
         }
         box2.addFruit(o);
         box2.addFruit(a);
-        System.out.println("\nBox 2 weight: " + box2.getWeight());
+        System.out.println("\nhome_work_1.Box 2 weight: " + box2.getWeight());
 
 
         //Task_3_d,e
         System.out.println("\nWeight box1 = weight box2? " + box1.compare(box2));
 
         //Task_3_f
-        Box box3 = new Box("Box 3");
+        Box box3 = new Box("home_work_1.Box 3");
         //box3.addFruit(a); // Кейс, когда в корзине уже есть яблоко, а мы хотим пересыпать туда апельсины
         box3.addFruit(o); // Кейс, когда в корзине уже есть апельсин, и мы хотим пересыпать туда апельсины
-        System.out.println("Box 1 weight: " + box1.getWeight());
-        System.out.println("Box 3 weight: " + box3.getWeight());
+        System.out.println("home_work_1.Box 1 weight: " + box1.getWeight());
+        System.out.println("home_work_1.Box 3 weight: " + box3.getWeight());
         box1.interlard(box3);
         System.out.println("After interland:");
-        System.out.println("Box 1 weight: " + box1.getWeight());
-        System.out.println("Box 3 weight: " + box3.getWeight());
+        System.out.println("home_work_1.Box 1 weight: " + box1.getWeight());
+        System.out.println("home_work_1.Box 3 weight: " + box3.getWeight());
     }
 
     public static <T> void Swapper(T[] array, int pos1, int pos2) {
