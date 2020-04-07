@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fef0ea9e-4636-4421-a094-47e8f9b9be9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_2/WorkWithDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/J3HW1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/J3HW1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/Apple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/Fruit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home_work_1/Orange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ_update.txt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_update.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB.db" beforeDir="false" afterPath="$PROJECT_DIR$/myDB.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/home_work_2/WorkWithDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home_work_2/WorkWithDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/home_work_2/WorkWithDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/home_work_2/WorkWithDB.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
