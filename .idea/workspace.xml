@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="fef0ea9e-4636-4421-a094-47e8f9b9be9f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ_update.txt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_update.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDB.db" beforeDir="false" afterPath="$PROJECT_DIR$/myDB.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/home_work_2/WorkWithDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/home_work_2/WorkWithDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/home_work_2/WorkWithDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/home_work_2/WorkWithDB.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.WorkWithDB">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="home_work_1.Main" />
       <module name="J3HW1" />
@@ -49,8 +50,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WorkWithDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_2.WorkWithDB" />
+      <module name="J3HW1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home_work_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WorkWithDB" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -73,7 +88,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
