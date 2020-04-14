@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fef0ea9e-4636-4421-a094-47e8f9b9be9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_3/AppReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_3/AppTransferFile/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_3/AppTransferFile/AppObjectTransfer_Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_3/AppTransferFile/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_4/MainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_4/OutMess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_4/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_4/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_4/ThreadC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/J3HW1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/J3HW1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home_work_1/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/home_work_1/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home_work_1/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/home_work_1/Box.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home_work_1/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/home_work_1/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home_work_1/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/home_work_1/Fruit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home_work_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/home_work_1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home_work_1/Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/home_work_1/Orange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/home_work_2/WorkWithDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/home_work_2/WorkWithDB.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppReader">
+  <component name="RunManager" selected="Application.MainThread">
     <configuration name="AppObjectTransfer_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="home_work_3.AppTransferFile.AppObjectTransfer_Client" />
       <module name="J3HW1" />
@@ -102,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_3.Main" />
+    <configuration name="MainThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_4.MainThread" />
       <module name="J3HW1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home_work_3.AppTransferFile.*" />
+          <option name="PATTERN" value="home_work_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainThread" />
         <item itemvalue="Application.AppReader" />
         <item itemvalue="Application.AppObjectTransfer_Client" />
         <item itemvalue="Application.AppObjectTransfer_Server" />
