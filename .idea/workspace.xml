@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fef0ea9e-4636-4421-a094-47e8f9b9be9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_4/MainThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_4/OutMess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_4/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_4/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_4/ThreadC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_5/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_5/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_5/Race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_5/Road.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_5/Stage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_5/Tunnel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a2Tz8BUcACWyRbdl4vDbufucVF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -52,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainThread">
+  <component name="RunManager" selected="Application.MainClass">
     <configuration name="AppObjectTransfer_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="home_work_3.AppTransferFile.AppObjectTransfer_Client" />
       <module name="J3HW1" />
@@ -92,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_5.MainClass" />
+      <module name="J3HW1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home_work_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="home_work_4.MainThread" />
       <module name="J3HW1" />
@@ -105,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkWithDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="home_work_2.WorkWithDB" />
-      <module name="J3HW1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="home_work_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.MainThread" />
         <item itemvalue="Application.AppReader" />
         <item itemvalue="Application.AppObjectTransfer_Client" />
         <item itemvalue="Application.AppObjectTransfer_Server" />
-        <item itemvalue="Application.WorkWithDB" />
       </list>
     </recent_temporary>
   </component>
