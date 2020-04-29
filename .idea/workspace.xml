@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fef0ea9e-4636-4421-a094-47e8f9b9be9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_7/AfterSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_7/BeforeSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_7/DemoClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_7/ReadyHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_7/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home_work_8/SpiralArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +37,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a2Tz8BUcACWyRbdl4vDbufucVF" />
@@ -59,19 +76,7 @@
       <command value="construct" />
     </option>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ReadyHW (1)">
+  <component name="RunManager" selected="Application.SpiralArray">
     <configuration name="ReadyHW (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReadyHW" />
       <module name="J3HW1" />
@@ -85,6 +90,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="home_work_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiralArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="home_work_8.SpiralArray" />
+      <module name="J3HW1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home_work_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,28 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCheckUnitsAndFoursAndReturnBoolean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="J3HW1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestCheckUnitsAndFoursAndReturnBoolean" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpiralArray" />
         <item itemvalue="Application.ReadyHW (1)" />
         <item itemvalue="Application.TestClass" />
         <item itemvalue="Application.ReadyHW" />
         <item itemvalue="JUnit.TestCheckLastFourAndReturnArray" />
-        <item itemvalue="JUnit.TestCheckUnitsAndFoursAndReturnBoolean" />
       </list>
     </recent_temporary>
   </component>
@@ -157,12 +160,37 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="244" key="GridCell.Tab.0.bottom" timestamp="1588162677776">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="244" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588162677776" />
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.940@0.23.1680.940" timestamp="1588159183403" />
+    <state width="1638" height="244" key="GridCell.Tab.0.center" timestamp="1588162677775">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="244" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588162677775" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.940@0.23.1680.940" timestamp="1588159183402" />
+    <state width="1638" height="244" key="GridCell.Tab.0.left" timestamp="1588162677774">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="244" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588162677774" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.940@0.23.1680.940" timestamp="1588159183402" />
+    <state width="1638" height="244" key="GridCell.Tab.0.right" timestamp="1588162677775">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="244" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588162677775" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.940@0.23.1680.940" timestamp="1588159183402" />
+    <state x="631" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588161687272">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="631" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1588161687272" />
   </component>
 </project>
